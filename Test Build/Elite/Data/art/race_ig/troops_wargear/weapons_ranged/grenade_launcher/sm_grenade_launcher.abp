@@ -1,0 +1,10 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "SM_Grenade_Launcher",
+    "SM_Grenade_Launcher_rubble",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}
